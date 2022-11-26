@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Room CarShop</string>
+  <string name="contact_input">Neuer Kontakt</string>
+  <string name="contact_detail">Kontakt bearbeiten</string>
+  <string name="firstName">Vorname</string>
+  <string name="lastName">Nachname</string>
+  <string name="email">Mail</string>
+  <string name="phone">Telefon</string>
+  <string name="send">Senden</string>
+  <string name="street">Strasse und Hausnummer</string>
+  <string name="city">PLZ und Ort</string>
+  <string name="save">Speichern</string>
+  <string name="back">Zurück</string>
+</resources>
